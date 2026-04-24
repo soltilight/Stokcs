@@ -15,7 +15,9 @@ namespace StocksOperation.TokenService
         public TokenService(IConfiguration config)
         {
             _config = config;
-            _key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(_config["JWT:SigningKey"]));
+            var signingKey = Environment.GetEnvironmentVariable("JWT_SIGNING_KEY") ?? 
+                             throw new InvalidOperationException("JWT_SIGNING_KEY environment variable is not set");
+            _key = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(signingKey));
         }
         public string CreateToken(AppUser user)
         {
