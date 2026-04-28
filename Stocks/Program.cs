@@ -81,6 +81,19 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// Serve static files (index.html, app.js) from the parent directory
+var webRoot = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), ".."));
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(webRoot),
+    RequestPath = ""
+});
+
+app.UseDefaultFiles(new DefaultFilesOptions
+{
+    DefaultFileNames = new List<string> { "index.html" }
+});
+
 app.UseAuthentication();
 
 
