@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stocks API Test</title>
+</head>
+<body>
+    <h1>Stocks API Test</h1>
+    
+    <h2>Create Stock</h2>
+    <form id="createStockForm">
+        <input type="text" id="symbol" placeholder="Symbol (max 10 chars)" required><br><br>
+        <input type="text" id="companyName" placeholder="Company Name (max 20 chars)" required><br><br>
+        <input type="number" id="purchase" placeholder="Purchase" step="0.01" required><br><br>
+        <input type="number" id="lastDiv" placeholder="Last Div" step="0.001" required><br><br>
+        <input type="text" id="industry" placeholder="Industry (max 50 chars)" required><br><br>
+        <input type="number" id="marketCap" placeholder="Market Cap" required><br><br>
+        <button type="submit">Create Stock</button>
+    </form>
+    <div id="createStockResult"></div>
+
+    <h2>All Stocks</h2>
+    <button onclick="getAllStocks()">Get All Stocks</button>
+    <div id="stocksList"></div>
+
+    <h2>Comments</h2>
+    <button onclick="getAllComments()">Get All Comments</button>
+    <div id="commentsList"></div>
+
+    <h2>Create Comment</h2>
+    <form id="createCommentForm">
+        <input type="number" id="commentStockId" placeholder="Stock ID" required><br><br>
+        <input type="text" id="commentTitle" placeholder="Title (5-280 chars)" required><br><br>
+        <textarea id="commentContent" placeholder="Content (5-280 chars)" required></textarea><br><br>
+        <button type="submit">Create Comment</button>
+    </form>
+    <div id="createCommentResult"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
