@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\dto\\dto-stocks\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\dto\\dto-stocks\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\dto\\dto-accounts\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\dto\\dto-accounts\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\models\\stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\controllers\\commentconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\controllers\\commentconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\tokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\tokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\dto\\dto-accounts\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\dto\\dto-accounts\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\dto\\dto-comments\\updatecommentdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\dto\\dto-comments\\updatecommentdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\dto\\dto-comments\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\dto\\dto-comments\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\dto\\dto-comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\dto\\dto-comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|c:\\users\\evotechpc\\source\\repos\\stocks\\stokcs\\stocks\\stocksoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC5538E2-BB5D-D85C-205F-1F50E2AA4491}|Stocks\\StocksOperation.csproj|solutionrelative:stocks\\stocksoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Mappers\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "Stocks\\Mappers\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Mappers\\CommentMapper.cs",
+              "RelativeToolTip": "Stocks\\Mappers\\CommentMapper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:31:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-STOCKS\\StockDto.cs",
+              "RelativeDocumentMoniker": "Stocks\\DTO\\DTO-STOCKS\\StockDto.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-STOCKS\\StockDto.cs",
+              "RelativeToolTip": "Stocks\\DTO\\DTO-STOCKS\\StockDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:26:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-ACCOUNTS\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Stocks\\DTO\\DTO-ACCOUNTS\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-ACCOUNTS\\RegisterDto.cs",
+              "RelativeToolTip": "Stocks\\DTO\\DTO-ACCOUNTS\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:25:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentConroller.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Controllers\\CommentConroller.cs",
+              "RelativeDocumentMoniker": "Stocks\\Controllers\\CommentConroller.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Controllers\\CommentConroller.cs",
+              "RelativeToolTip": "Stocks\\Controllers\\CommentConroller.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:08:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Stocks\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Stocks\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:07:07.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stocks.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Models\\Stocks.cs",
+              "RelativeDocumentMoniker": "Stocks\\Models\\Stocks.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Models\\Stocks.cs",
+              "RelativeToolTip": "Stocks\\Models\\Stocks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:04:10.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockMappers.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Mappers\\StockMappers.cs",
+              "RelativeDocumentMoniker": "Stocks\\Mappers\\StockMappers.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Mappers\\StockMappers.cs",
+              "RelativeToolTip": "Stocks\\Mappers\\StockMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:27:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\appsettings.json",
+              "RelativeDocumentMoniker": "Stocks\\appsettings.json",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\appsettings.json",
+              "RelativeToolTip": "Stocks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T08:56:29.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "Stocks\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "Stocks\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:06:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Program.cs",
+              "RelativeDocumentMoniker": "Stocks\\Program.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Program.cs",
+              "RelativeToolTip": "Stocks\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T09:27:01.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Stocks\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Models\\Comment.cs",
+              "RelativeToolTip": "Stocks\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:10:59.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Stocks\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Stocks\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:08:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Stocks\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "Stocks\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:09:54.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\TokenService\\TokenService.cs",
+              "RelativeDocumentMoniker": "Stocks\\TokenService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\TokenService\\TokenService.cs",
+              "RelativeToolTip": "Stocks\\TokenService\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:12:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-ACCOUNTS\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Stocks\\DTO\\DTO-ACCOUNTS\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-ACCOUNTS\\LoginDto.cs",
+              "RelativeToolTip": "Stocks\\DTO\\DTO-ACCOUNTS\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:04:51.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateCommentDtocs.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-COMMENTS\\UpdateCommentDtocs.cs",
+              "RelativeDocumentMoniker": "Stocks\\DTO\\DTO-COMMENTS\\UpdateCommentDtocs.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-COMMENTS\\UpdateCommentDtocs.cs",
+              "RelativeToolTip": "Stocks\\DTO\\DTO-COMMENTS\\UpdateCommentDtocs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:01:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-COMMENTS\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "Stocks\\DTO\\DTO-COMMENTS\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-COMMENTS\\CreateCommentDto.cs",
+              "RelativeToolTip": "Stocks\\DTO\\DTO-COMMENTS\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:01:24.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-COMMENTS\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Stocks\\DTO\\DTO-COMMENTS\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\DTO\\DTO-COMMENTS\\CommentDto.cs",
+              "RelativeToolTip": "Stocks\\DTO\\DTO-COMMENTS\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T19:01:23.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StocksOperation.csproj",
+              "DocumentMoniker": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\StocksOperation.csproj",
+              "RelativeDocumentMoniker": "Stocks\\StocksOperation.csproj",
+              "ToolTip": "C:\\Users\\EvoTechPC\\source\\repos\\Stocks\\Stokcs\\Stocks\\StocksOperation.csproj",
+              "RelativeToolTip": "Stocks\\StocksOperation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T09:30:35.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -66,18 +66,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "stockId",
+        "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "updateDto",
         "Type": "StocksOperation.DTO.DTO_COMMENTS.UpdateCommentRequestDto",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "",
         "IsRequired": true
       }
     ],
@@ -92,13 +87,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "stockId",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
         "Name": "id",
-        "Type": "",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

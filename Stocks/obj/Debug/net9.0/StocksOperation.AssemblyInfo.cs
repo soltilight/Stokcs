@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StocksOperation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c2f4f406e5cfa9a9ff02fee917601e5ee286acc")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("StocksOperation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StocksOperation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
